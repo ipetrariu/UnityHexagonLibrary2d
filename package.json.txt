@@ -1,0 +1,19 @@
+{
+  "name": "com.local.hexagonLibrary2d",
+  "version": "1.0.0",
+  "displayName": "Hexagon Library 2D",
+  "description": "This is an example package",
+  "unity": "2021.1",
+  "unityRelease": "19f1",
+  "licensesUrl": "https://github.com/ipetrariu/UnityHexagonLibrary2d/blob/efbbb90bb3ab111b966db1ac838b4d88167e4631/LICENSE",
+  "dependencies": {
+ },
+ "keywords": [
+    "hexagonGrid",
+  ],
+  "author": {
+    "name": "test",
+    "email": "test@test.com",
+    "url": "https://www.test.com"
+  }
+}
