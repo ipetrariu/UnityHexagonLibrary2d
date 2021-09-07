@@ -1,7 +1,7 @@
 {
-  "name": "com.local.hexagonLibrary2d",
-  "version": "1.2.3",
-  "displayName": "Package Example",
+  "name": "com.local.hexagonlibrary2d",
+  "version": "1.0.0",
+  "displayName": "Hexagon Library 2D",
   "description": "This is an example package",
   "unity": "2021.1",
   "unityRelease": "19f1",
@@ -9,7 +9,7 @@
   "dependencies": {
  },
  "keywords": [
-    "hexagonGrid",
+    "hexagonGrid"
   ],
   "author": {
     "name": "test",
