@@ -15,5 +15,12 @@
     "name": "test",
     "email": "test@test.com",
     "url": "https://www.test.com"
-  }
+  },
+  "samples": [
+    {
+        "displayName": "Demo",
+        "description": "Contains demo",
+        "path": "Samples~/Demo"
+    }
+  ]
 }
